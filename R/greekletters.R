@@ -25,7 +25,7 @@
 #' To see names of symbols use \code{\link{print_greeks}}.
 #'
 #' @importFrom stringr str_extract
-#' @importFrom assertthat assert_that
+#' @importFrom assertthat validate_that
 #' @export greeks
 #' @author Kévin Allan Sales Rodrigues.
 #'

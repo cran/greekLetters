@@ -16,11 +16,7 @@ summary_greek(object, correlation = FALSE, symbolic.cor = FALSE, ...)
 \item{symbolic.cor}{logical. If \code{TRUE}, print the correlations in
     a symbolic form (see \code{\link[stats]{symnum}}) rather than as numbers.}
 
-\item{...}{
-  Arguments passed on to \code{\link[stats:summary.lm]{stats::summary.lm}}
-  \describe{
-    \item{\code{}}{}
-  }}
+\item{...}{further arguments passed to or from other methods.}
 }
 \value{
 The function is like summary.lm but with Greek

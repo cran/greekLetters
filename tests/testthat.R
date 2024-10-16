@@ -1,4 +1,2 @@
-library(testthat)
-library(greekLetters)
 
-test_check("greekLetters")
+testthat::test_check("greekLetters")

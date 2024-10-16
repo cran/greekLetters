@@ -14,3 +14,4 @@ testthat::test_that('check if greeks is ok!', {
 
   testthat::expect_equivalent(greeks("sigma^3_2"), '\u03c3\u2082\u00B3')
 })
+

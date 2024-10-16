@@ -4,7 +4,7 @@
 #' summary method with Greek letters for class "lm".
 #'
 #' @inheritParams stats::summary.lm
-#' @inheritDotParams stats::summary.lm
+# @inheritDotParams stats::summary.lm
 #'
 #'
 #' @export
